@@ -1,4 +1,7 @@
 # Log Archive Tool
+## Project Roadmap
+
+This project is part of the [DevOps Roadmap](https://roadmap.sh/projects/log-archive-tool). It helps me build and improve my skills as a system administrator and DevOps professional by automating log archiving tasks. Check the roadmap for more projects that I am working on to expand my knowledge in DevOps and system administration.
 
 ## Description
 
